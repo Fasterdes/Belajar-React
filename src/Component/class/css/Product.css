@@ -1,0 +1,19 @@
+.product-box { 
+    display: inline-block;
+    padding: 23px;
+    border: 1px solid green;
+    margin: 23px 20px  auto;
+    text-align: center;
+}
+
+.product-box img { 
+    width: 200px;
+}
+
+.btn-click { 
+    background: #000;
+    color: white;
+    width: 120px;
+    padding: 13px;
+    cursor: pointer;
+}
